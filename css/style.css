@@ -1,19 +1,15 @@
-* {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
-
 }
-.navbar {
-  font-size: 25px;
-  
-  
-}
-.navbar-brand {
-
-
-
-
-    font-size: 60px;
+:root{
+--primary-color: rgb(0, 0, 0);
+--secondary-color: #D7DE57;
+--tertiary-color: white;
+/* Tipografia */
+font-family:"Montserrat", sans-serif ;
+font-size: 14px;
 }
