@@ -13,3 +13,13 @@
 font-family:"Montserrat", sans-serif ;
 font-size: 14px;
 }
+.footer{
+    background-color: var(--primary-color);
+    align-content: ;
+}
+.conteiner-input{
+    align-items: center;
+}
+.btn{
+    height: 30px;
+}
