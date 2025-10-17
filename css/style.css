@@ -13,13 +13,14 @@
 font-family:"Montserrat", sans-serif ;
 font-size: 14px;
 }
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
 .footer{
     background-color: var(--primary-color);
-    align-content: ;
-}
-.conteiner-input{
-    align-items: center;
 }
 .btn{
     height: 30px;
 }
+
