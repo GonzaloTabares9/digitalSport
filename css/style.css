@@ -13,7 +13,50 @@
 font-family:"Montserrat", sans-serif ;
 font-size: 14px;
 }
-.carousel-item img {
-    height: 500px;
-    object-fit: cover;
+.navbar{
+    display: flex;
+    font-size: 22px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px;
+    background-color: var(--primary-color);
+    color: var(--tertiary-color);
+    background-image: url(../assets/img/logo_digitalsport.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
+   
+.navbar-brand {
+
+    font-size: 34px;
+    
+   
+    background-color: rgb(5, 0, 0);
+    
+    
+    color: var(--tertiary-color);
+    
+
+}
+.nav-item {
+
+
+    list-style: none;
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 30px;
+    text-shadow: #ffffff;
+    background-color: rgba(255, 255, 255, 0) ;
+    color: var(--tertiary-color);
+    text-decoration: none;
+    transition: 1.3s;
+    
+}
+
+
+
+
+
+
+
+
