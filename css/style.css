@@ -13,19 +13,6 @@
 font-family:"Montserrat", sans-serif ;
 font-size: 14px;
 }
-
-.carousel-item img {
-    height: 500px;
-    object-fit: cover;
-}
-.footer{
-    background-color: var(--primary-color);
-}
-.btn{
-    height: 30px;
-    
-}
-=======
 .navbar{
     display: flex;
     font-size: 22px;
@@ -65,4 +52,11 @@ font-size: 14px;
     transition: 1.3s;
     
 }
+
+
+
+
+
+
+
 
